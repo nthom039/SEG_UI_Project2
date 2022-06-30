@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  Color: #333;
+}
+.newNav {
+  background-color: #333;
+  text-align: center;
+  border-bottom: 5px solid #f1356d;
+}
+.newNav h1 {
+  color: #f1356d;
+}
+.newNav .logo {
+  text-align: left;
+}
+.newNav .buttons {
+  text-align: right;
+}
+.newNav Button {
+  margin: 8px;
+}
+.home {
+  text-align: center;
+}
+.home .banner{
+  width: 100%;
+}
+.home .description {
+  text-align: center;
+}
+.home .services {
+  text-align: center;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.home .button {
+  text-align: center;
+}
+.premade {
+  text-align: center;
+  align-items: center;
+}
+.premade .boxes{
+  align-items: center;
+  text-align: center;
+}
+.premade .card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+.premade .cardTitle {
+  text-align: Left;
+}
+.premade .priceRow {
+  padding-top: 5%;
+}
+.premade .priceTag {
+  align-items: Left;
+  text-align: Left;
+  font-weight: bold;
+  font-size: x-large;
+}
+.premade .buyButton {
+  text-align: Right;
+}
+.ambitious{
+  padding: 5%;
+}
+.ambitious .title{
+  text-align: center;
+  align-items: center;
+}
+.cartCheckout {
+  padding: 2%;
+}
+.cartCheckout .input{
+  padding-top: 0%;
+}
+.cartCheckout .cardTypes{
+  text-align: center;
+  align-items: center;
+  padding: 2.5%;
+}
+.cartCheckout .card{
+  margin-bottom: 1%;
+}
+.makeYourOwn{
+  align-items: center;
+}
+.makeYourOwn .title{
+  text-align: center;
+}
+.makeYourOwn .price{
+  text-align: right;
+}
+.makeYourOwn  .card{
+  text-align: center;
+  align-items: center;
+}
+.puzzleViewer {
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+}
+.puzzleViewer .back{
+  text-align: left;
+}
+.ourWork{
+  align-items: center;
+  text-align: center;
+  padding: 2.5%;
+}
+.ourWork .smallImg{
+  width: 50%;
+}
